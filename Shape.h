@@ -5,7 +5,7 @@
 using namespace std;
 
 class Shape {
-    char name[10];
+    char name[11];
     char color[10];
 
 public:
